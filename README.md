@@ -1,3 +1,3 @@
-# README
-[German Readme](README-DE.md)\
+# Information
+[Deutsche Readme](README-DE.md)\
 [English Readme](README-EN.md)
