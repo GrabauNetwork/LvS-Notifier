@@ -4,10 +4,10 @@
 Gedacht ist dieses Tool um eine regelmäßige Alamierung an alle oder einzelne Mitglieder zu ermöglichen (bspw. Probealarm für Feuerwehren am Samstag)
 
 ____
-> **Installationsanleitung** 
+> **Installationsanleitung für Linux (Debian/Ubunutu)** 
 >```
 >apt-get update && apt-get upgrade -y
-> apt-get install php php-curl git -y
+> apt-get install php php-curl php-xml git -y
 > git clone https://github.com/GrabauNetwork/LvS-Notifier.git
 > # Bearbeiten der config.php-Datei
 > nano config.php
