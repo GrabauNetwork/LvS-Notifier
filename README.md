@@ -1,6 +1,6 @@
 ## LvS-Notifier
 > **Was ist LvS-Notifier?**\
->LvS-Notifier ist ein Script, welches die App *LvS-Pager* von [Vivasecure](https://www.vivasecur.de/loesungen/leitstellenverbund.html) ansprechen kann um einen Probealarm oder eine Information an Mitglieder aussenden zu können.
+>LvS-Notifier ist ein Script, welches die App *LvS-Pager* von [Vivasecure](https://www.vivasecur.de/loesungen/leitstellenverbund.html) ansprechen kann um einen Probealarm oder eine Information an Mitglieder aussenden  kann.
 Gedacht ist dieses Tool um eine regelmäßige Alamierung an alle oder einzelne Mitglieder zu ermöglichen (bspw. Probealarm für Feuerwehren am Samstag)
 
 ____
