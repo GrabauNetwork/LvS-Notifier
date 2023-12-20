@@ -13,11 +13,11 @@ ____
 > # Speichern mit Strg+O Strg+X
 >```
 ____
-***Script ausführen***
- Nachricht an alle Benutzer senden
- ```php notification.php```
- Nachricht an einzelnen Benutzer senden (s. $single_number in der config.php - Datei)
- ```php single_notification.php```
+> ***Script ausführen***\
+>Nachricht an alle Benutzer senden \
+>```php notification.php``` \
+>Nachricht an einzelnen Benutzer senden (s. $single_number in der \ >config.php - Datei) \
+> ```php single_notification.php```
 
 Bei Problemen und/oder Fragen bitte ein Ticket bei Issues öffnen
 ____
