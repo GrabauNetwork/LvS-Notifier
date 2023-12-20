@@ -7,7 +7,8 @@ ____
 > **Installationsanleitung** 
 >```
 >apt-get update && apt-get upgrade -y
-> apt-get install php php-curl -y
+> apt-get install php php-curl git -y
+> git clone https://github.com/GrabauNetwork/LvS-Notifier
 > # Bearbeiten der config.php-Datei
 > nano config.php
 > # Speichern mit Strg+O Strg+X
