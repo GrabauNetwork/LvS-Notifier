@@ -9,5 +9,5 @@ $randomtxt = $randomtxt . $abc[$random];
 return $randomtxt;
 }
 
-$datact = date("Y-m-d") . "T" . date("G:i:s");
+$datact = date("Y-m-d") . "T" . date("H:i:s");
 ?>
